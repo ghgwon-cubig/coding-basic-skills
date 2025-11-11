@@ -1,0 +1,16 @@
+
+# mcp
+.serena/
+
+# claude
+CLAUDE.md
+# git
+.git/
+
+# etc
+review/
+.DS_Store
+
+# env
+.venv/
+.env

@@ -17,7 +17,8 @@
       "skills": [
         "./memory-bank-updater",
         "./task-planner",
-        "./branch-manager"
+        "./branch-manager",
+        "./project-reviewer"
       ]
     }
   ]

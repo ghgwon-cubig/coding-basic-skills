@@ -10,6 +10,7 @@ CLAUDE.md
 # etc
 review/
 .DS_Store
+.DS_Store
 
 # env
 .venv/

@@ -45,10 +45,3 @@
 - When using Context7, make sure that you keep the range of output in the range 2k to 10k based on what you think is the best.
 - Maintain a file named library.md to store the Library IDs that you search for and before searching make sure that you check the file and use the library ID already available. Otherwise, search for it.
 
-## 테스트 결과 관리
-테스트 결과는 `.serena/memories/test_results/` 디렉토리에 저장됩니다.
-
-상세한 가이드는 다음 문서를 참조하세요:
-- **테스트 실행 및 보고서 작성**: `plugins/development/agents/web-ui-tester.md`
-- **테스트 결과 저장 및 관리**: `plugins/development/skills/memory-bank-updater/references/memory-bank-guide.md`
-- **테스트 문서화 표준**: `plugins/development/agents/technical-documentation-writer.md`
